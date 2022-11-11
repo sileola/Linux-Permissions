@@ -20,9 +20,9 @@ chmod ugo filename
 
 ### PERMISSIONS CAN BE A COMBINATION OF:
 
-***7+4+2+1= r+w+x**
+**7+4+2+1= r+w+x**
 
-***6= 4+2, r+w**
+**6= 4+2, r+w**
 
 **5 = 4+1= r+x**
 
