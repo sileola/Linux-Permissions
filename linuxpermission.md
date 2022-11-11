@@ -28,6 +28,8 @@ chmod ugo filename
 
 **3 = 2 +1 = w+x**
 
+Alright
+
 
 
 
