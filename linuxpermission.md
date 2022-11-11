@@ -32,6 +32,10 @@ Alright
 
 
 
+*#!/bin/bash is a sequence of characters (#!) called shebang and is used to tell the Linux OS which interpreter to use to parse the rest of the file. You will always see #!/bin/bash or #!/usr/bin/env bash as the first line when writing or reading bash scripts*
+
+
+
 
 
 
