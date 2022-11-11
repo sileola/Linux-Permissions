@@ -36,6 +36,31 @@ Alright
 
 
 
+## DEFINING VARIABLES
+
+`https://www.tutorialspoint.com/unix/unix-special-variables.htm`
 
 
+**FOR LOOP**
+
+for Variable in word1 word 1 ... wordN
+
+do
+
+    statement
+
+done
+
+
+**WHILE LOOP**
+
+
+
+while command/condition
+
+do
+
+    statement
+
+done
 
