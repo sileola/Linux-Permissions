@@ -38,7 +38,7 @@ Alright
 
 ## DEFINING VARIABLES
 
-`https://www.tutorialspoint.com/unix/unix-special-variables.htm`
+(https://www.tutorialspoint.com/unix/unix-special-variables.htm)
 
 
 **FOR LOOP**
